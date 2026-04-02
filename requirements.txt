@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+scikit-learn
+joblib
+matplotlib
+numpy
+pandas
+tabulate
